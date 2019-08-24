@@ -17,8 +17,8 @@
 ( In Visual Studio Code Editor,you can run the index.html file with Live Sever.)
 
 ## Screenshots
-![Example screenshot](./screenshot/js1.png) 
-![Example screenshot](./screenshot/js2.png)
+![Example screenshot](./screenshot/js1.PNG) 
+![Example screenshot](./screenshot/js2.PNG)
 
 ## Contact
 [Sabiha Begum Jaggir Hussain](https://sabihabegumj.com/) - feel free to contact me!

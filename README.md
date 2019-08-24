@@ -13,8 +13,8 @@
 * Code Editor - Visual Studio Code
 
 ## Running the Application
-* Step 1: Open the index in any browser and the browser automatically interprets coding and displays it. 
-* Step 2: In Visual Studio Code,you can run the index.html file with Live Sever.
+* Step 1: Open the index.html in any browser and the browser automatically interprets coding and displays it. 
+( In Visual Studio Code Editor,you can run the index.html file with Live Sever.)
 
 ## Screenshots
 ![Example screenshot](./screenshot/js1.png) 

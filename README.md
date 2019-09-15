@@ -1,6 +1,6 @@
 # A Simple Location Info Using Zipcode 
 
-> A Simple Location Info with any given Zipcode in Canada built using JavaScript, Fetch API, HTML5, CSS
+> A Simple Location Info with any given Zipcode in Canada built using JavaScript, Fetch API, JSON, HTML5
 
 ## Table of contents
 * [Technologies](#technologies)
